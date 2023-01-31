@@ -1,7 +1,7 @@
 # Kernel-Anticheat - Check your detection vectors
 
 Why?
-I saw the thread of [B]apexlegends[/B] and i thought it was pretty cool so i tried to improve his code a bit and add some more features. All the credits go to him because this was his idea. Ill add try to add more features later on.
+I saw the thread of apexlegends and i thought it was pretty cool so i tried to improve his code a bit and add some more features. All the credits go to him because this was his idea. Ill add try to add more features later on.
 
 Features :
 -NMI StackWalking
